@@ -1,0 +1,10 @@
+services:
+  i24-api:
+    build: .
+    ports: ["127.0.0.1:8094:8094"]
+    environment:
+      PYTHONPATH: /app/src
+    read_only: true
+    volumes:
+      - ./outputs/demo:/app/outputs/demo:ro
+    security_opt: ["no-new-privileges:true"]

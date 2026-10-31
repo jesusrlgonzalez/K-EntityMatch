@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "I24 Review evidence",
+  "type": "object",
+  "required": [
+    "approved_by_owner",
+    "independent_reviewer",
+    "reviewer_is_distinct",
+    "source_authorized",
+    "evidence_hash",
+    "negative_findings_resolved"
+  ],
+  "properties": {
+    "approved_by_owner": {
+      "type": "string"
+    },
+    "independent_reviewer": {
+      "type": "string"
+    },
+    "reviewer_is_distinct": {
+      "type": "boolean"
+    },
+    "source_authorized": {
+      "type": "boolean"
+    },
+    "evidence_hash": {
+      "type": "string"
+    },
+    "negative_findings_resolved": {
+      "type": "boolean"
+    }
+  }
+}

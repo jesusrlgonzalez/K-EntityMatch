@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "I24 Entity \u2013 working contract",
+  "type": "object",
+  "required": [
+    "entity_id",
+    "legal_name",
+    "country",
+    "source",
+    "updated_at"
+  ],
+  "properties": {
+    "entity_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "legal_name": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "lei": {
+      "type": "string"
+    },
+    "registration_id": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    },
+    "updated_at": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

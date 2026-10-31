@@ -1,0 +1,73 @@
+source_row_id,injected_type,source_domain,note
+CUS-00560,bad_lei,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00561,empty_name,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00562,bad_country,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00563,stale_time,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00025,duplicate_id,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00565,missing_registration,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00566,punctuation_alias,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00567,transposition,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00568,bad_lei,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00569,empty_name,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00570,bad_country,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00571,stale_time,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00025,duplicate_id,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00573,missing_registration,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00574,punctuation_alias,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00575,transposition,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00576,bad_lei,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00577,empty_name,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00578,bad_country,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00579,stale_time,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00025,duplicate_id,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00581,missing_registration,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00582,punctuation_alias,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00583,transposition,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00584,bad_lei,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00585,empty_name,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00586,bad_country,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00587,stale_time,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00025,duplicate_id,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00589,missing_registration,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00590,punctuation_alias,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00591,transposition,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00592,bad_lei,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00593,empty_name,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00594,bad_country,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00595,stale_time,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00025,duplicate_id,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00597,missing_registration,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00598,punctuation_alias,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00599,transposition,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00600,bad_lei,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00601,empty_name,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00602,bad_country,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00603,stale_time,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00025,duplicate_id,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00605,missing_registration,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00606,punctuation_alias,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00607,transposition,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00608,bad_lei,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00609,empty_name,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00610,bad_country,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00611,stale_time,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00025,duplicate_id,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00613,missing_registration,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00614,punctuation_alias,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+CUS-00615,transposition,CLIENT_SYNTHETIC,"scripted, not present in any real register"
+REF-00605,bad_registry_country,REGISTRY_SYNTHETIC,scripted
+REF-00606,bad_registry_country,REGISTRY_SYNTHETIC,scripted
+REF-00607,bad_registry_country,REGISTRY_SYNTHETIC,scripted
+REF-00608,bad_registry_country,REGISTRY_SYNTHETIC,scripted
+REF-00609,bad_registry_country,REGISTRY_SYNTHETIC,scripted
+REF-00610,bad_registry_country,REGISTRY_SYNTHETIC,scripted
+REF-00611,bad_registry_country,REGISTRY_SYNTHETIC,scripted
+REF-00612,bad_registry_country,REGISTRY_SYNTHETIC,scripted
+REL-0000,broken_graph_endpoint,GRAPH_SYNTHETIC,scripted
+REL-0001,broken_graph_endpoint,GRAPH_SYNTHETIC,scripted
+REL-0002,broken_graph_endpoint,GRAPH_SYNTHETIC,scripted
+REL-0003,broken_graph_endpoint,GRAPH_SYNTHETIC,scripted
+REL-0004,broken_graph_endpoint,GRAPH_SYNTHETIC,scripted
+REL-0005,broken_graph_endpoint,GRAPH_SYNTHETIC,scripted
+REL-0006,broken_graph_endpoint,GRAPH_SYNTHETIC,scripted
+REL-0007,broken_graph_endpoint,GRAPH_SYNTHETIC,scripted

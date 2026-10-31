@@ -1,0 +1,1 @@
+Datos ENTERAMENTE INVENTADOS. Los registros etiquetados WATCHLIST_SYNTHETIC no son OFAC ni imputan sanciones a nadie. Archivos INJECTION_TRUTH y MATCH_GOLD exclusivamente para tests/evaluación; PROHIBIDO como predictor/feature.

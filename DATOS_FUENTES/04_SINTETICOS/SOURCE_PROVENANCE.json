@@ -1,0 +1,10 @@
+{
+  "kind": "SYNTHETIC",
+  "generated_by": "python -m i24.fixture",
+  "seed": 20261015,
+  "real_ofac_data": false,
+  "real_gleif_data": false,
+  "subject_names": "fictional",
+  "no_claims_about_real_entities": true,
+  "snapshot": "2026-10-15"
+}
